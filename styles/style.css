@@ -49,11 +49,14 @@
     display: flex;
     align-items: center;
     border: 5px solid #6F4E37;
-    height: 70vh;
+    height: 60vh;
     border-left: none;
 
 }
-
+.hero-image{
+    /* border:2px solid; */
+    width: 50vh;
+}
 
 .hero-img{
     width: 350px;
