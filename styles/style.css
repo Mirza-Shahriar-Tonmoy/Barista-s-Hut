@@ -16,6 +16,9 @@
     align-items: center;
     justify-content: space-around;
 }
+p{
+    text-align: center;
+}
 
 .logo-image{
     /* background-color: #6F4E37; */
@@ -92,4 +95,42 @@
 
 .bold{
     font-weight: bold;
+}
+
+.heading{
+    font-size: 40px;
+    font-family: Belanosima;
+    color: #6F4E37;
+    text-align: center;
+}
+
+.coffee-container{
+    display: flex;
+    justify-content: space-around;
+    height: 80vh;
+    align-items: center;
+   
+
+}
+
+.card{
+    height: 500px ;
+    width: 300px;
+    box-shadow: 4px 4px 10px #6F4E37;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 100px;
+    align-items: center;
+}
+
+.small-heading{
+    font-family: Belanosima;
+    color: #6F4E37;
+}
+
+hr{
+    color: #6F4E37;
 }
