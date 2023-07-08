@@ -106,9 +106,10 @@ p{
 
 .coffee-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     height: 80vh;
     align-items: center;
+    padding-left: 101pxgit ;
    
 
 }
@@ -124,6 +125,7 @@ p{
     justify-content: space-evenly;
     border-radius: 100px;
     align-items: center;
+    margin-right: 100px;
 }
 
 .small-heading{
